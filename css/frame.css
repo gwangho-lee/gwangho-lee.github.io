@@ -238,11 +238,6 @@ hr {
 	max-width: 600px;
 }
 
-.indent {
-	margin-left: 200px;
-	text-indent: -200px;
-}
-
 .flex-column {
   display: flex;
   flex-direction: column;
