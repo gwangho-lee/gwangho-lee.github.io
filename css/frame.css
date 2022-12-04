@@ -239,8 +239,8 @@ hr {
 }
 
 .indent {
-	margin-left: 30px;
-	text-indent: -30px;
+	margin-left: -50px;
+	text-indent: 50px;
 }
 
 .flex-column {
