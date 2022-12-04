@@ -230,6 +230,10 @@ hr {
   color: white;
 }
 
+.brief {
+	max-width: 600px;
+}
+
 .flex-column {
   display: flex;
   flex-direction: column;
