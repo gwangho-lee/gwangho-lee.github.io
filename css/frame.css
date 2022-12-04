@@ -28,6 +28,10 @@ a {
   cursor: pointer;
 }
 
+a:link {
+	color: green;
+}
+
 img {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -181,7 +185,7 @@ hr {
   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
   font-weight: 300;
   line-height: 1.5;
-  max-width: 1100px;
+  max-width: 1050px;
   overflow-x: auto;
 }
 
