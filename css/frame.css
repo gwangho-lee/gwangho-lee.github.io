@@ -340,8 +340,8 @@ hr {
 }
 
 .image {
-  width: 100%
   border-radius: 2px;
+  width: 100%;
   margin: 15px 0;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
