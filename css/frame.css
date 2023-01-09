@@ -185,7 +185,7 @@ hr {
   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
   font-weight: 300;
   line-height: 1.5;
-  max-width: 1050px;
+  max-width: 1000px;
   overflow-x: auto;
 }
 
@@ -341,7 +341,6 @@ hr {
 
 .image {
   border-radius: 2px;
-  width: 100%;
   margin: 15px 0;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
